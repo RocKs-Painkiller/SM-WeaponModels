@@ -225,6 +225,11 @@ Riflegren GER | weapon_riflegren_ger
 
 Name | Classname
 --- | ---
+Stunstick | weapon_stunstick
+Alyx Gun | weapon_alyxgun
+Annabelle | weapon_annabelle
+Slam | weapon_slam
+MegaPhysCannon | weapon_physcannon (Similar to the Gravity Gun, you can pick up NPC and heavy objects)
 Crowbar | weapon_crowbar
 Pistol | weapon_pistol
 SMG1 | weapon_smg1
